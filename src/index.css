@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "SVN Avengeance";
+  src: url("src/assets/SVN-Avengeance.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
